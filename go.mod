@@ -1,6 +1,6 @@
 module github.com/helm/chart-releaser
 
-go 1.14
+go 1.15
 
 require (
 	github.com/Azure/go-autorest/autorest/azure/auth v0.4.2 // indirect
